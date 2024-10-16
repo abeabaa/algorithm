@@ -3,4 +3,7 @@
 int main() {
 	bubbleexample();
 	selectionexample();
+	Bubbleexample();
+	insertexample();
+	countsort();
 }

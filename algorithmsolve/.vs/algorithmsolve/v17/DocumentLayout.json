@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jaewo\\source\\repos\\algorithmsolve\\",
+  "WorkspaceRootPath": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithmsolve\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A8425FC-3989-4262-A89D-993A8EE9BD5F}|algorithmsolve.vcxproj|C:\\Users\\jaewo\\source\\repos\\algorithmsolve\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1A8425FC-3989-4262-A89D-993A8EE9BD5F}|algorithmsolve.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A8425FC-3989-4262-A89D-993A8EE9BD5F}|algorithmsolve.vcxproj|C:\\Users\\jaewo\\source\\repos\\algorithmsolve\\sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1A8425FC-3989-4262-A89D-993A8EE9BD5F}|algorithmsolve.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithmsolve\\sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1A8425FC-3989-4262-A89D-993A8EE9BD5F}|algorithmsolve.vcxproj|solutionrelative:sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A8425FC-3989-4262-A89D-993A8EE9BD5F}|algorithmsolve.vcxproj|C:\\Users\\jaewo\\source\\repos\\algorithmsolve\\sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1A8425FC-3989-4262-A89D-993A8EE9BD5F}|algorithmsolve.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithmsolve\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A8425FC-3989-4262-A89D-993A8EE9BD5F}|algorithmsolve.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8425FC-3989-4262-A89D-993A8EE9BD5F}|algorithmsolve.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithmsolve\\sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1A8425FC-3989-4262-A89D-993A8EE9BD5F}|algorithmsolve.vcxproj|solutionrelative:sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A8425FC-3989-4262-A89D-993A8EE9BD5F}|algorithmsolve.vcxproj|C:\\Users\\jaewo\\source\\repos\\algorithmsolve\\lectures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1A8425FC-3989-4262-A89D-993A8EE9BD5F}|algorithmsolve.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithmsolve\\lectures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1A8425FC-3989-4262-A89D-993A8EE9BD5F}|algorithmsolve.vcxproj|solutionrelative:lectures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -26,53 +26,56 @@
       "DocumentGroups": [
         {
           "DockedHeight": 239,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "sort.cpp",
-              "DocumentMoniker": "C:\\Users\\jaewo\\source\\repos\\algorithmsolve\\sort.cpp",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithmsolve\\sort.cpp",
               "RelativeDocumentMoniker": "sort.cpp",
-              "ToolTip": "C:\\Users\\jaewo\\source\\repos\\algorithmsolve\\sort.cpp",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithmsolve\\sort.cpp",
               "RelativeToolTip": "sort.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAA5wCwAAAAVAAAA",
+              "ViewState": "AQIAAE8AAAAAAAAAAADgv1oAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-15T07:46:26.615Z"
+              "WhenOpened": "2024-10-15T07:46:26.615Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "sort.h",
-              "DocumentMoniker": "C:\\Users\\jaewo\\source\\repos\\algorithmsolve\\sort.h",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithmsolve\\sort.h",
               "RelativeDocumentMoniker": "sort.h",
-              "ToolTip": "C:\\Users\\jaewo\\source\\repos\\algorithmsolve\\sort.h",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithmsolve\\sort.h",
               "RelativeToolTip": "sort.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-15T07:45:57.791Z"
+              "WhenOpened": "2024-10-15T07:45:57.791Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "lectures.h",
-              "DocumentMoniker": "C:\\Users\\jaewo\\source\\repos\\algorithmsolve\\lectures.h",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithmsolve\\lectures.h",
               "RelativeDocumentMoniker": "lectures.h",
-              "ToolTip": "C:\\Users\\jaewo\\source\\repos\\algorithmsolve\\lectures.h",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithmsolve\\lectures.h",
               "RelativeToolTip": "lectures.h",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-15T07:12:20.107Z"
+              "WhenOpened": "2024-10-15T07:12:20.107Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\jaewo\\source\\repos\\algorithmsolve\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithmsolve\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\jaewo\\source\\repos\\algorithmsolve\\main.cpp",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithmsolve\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAUAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-15T07:10:51.161Z",
               "EditorCaption": ""
